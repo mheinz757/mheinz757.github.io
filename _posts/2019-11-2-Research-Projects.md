@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Interests
+title: Research Projects
 ---
 
 Current research project: 
