@@ -9,3 +9,4 @@ I am a 4th-year undergraduate at The Ohio State University studying Mathematics 
 ### Contact me
 
 [heinz.38@osu.edu](mailto:heinz.38@osu.edu)
+[www.google.com](www.bing.com)
