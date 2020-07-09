@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a 4th-year undergraduate at The Ohio State University studying Mathematics and Physics. I am interested in applying to graduate school in both Mathematics and Applied Mathematics. Over my time as an undergraduate, I have worked on research in low-energy nuclear theory, virtual knot theory, hydrodynamics in high-energy nuclear theory, and resummation of divergent series of solutions to partial differential equations. My main hobbies include playing chess, boxing, skiing, and playing Dungeons and Dragons.
+I am a first-year graduate student at UC Berkeley pursuing a Ph.D. in Applied Mathematics. During my time as an undergraduate at The Ohio State University, I have on research in low-energy nuclear theory, virtual knot theory, hydrodynamics in high-energy nuclear theory, and resummation of divergent series of solutions to partial differential equations. My main hobbies include playing chess, boxing, skiing, and playing Dungeons and Dragons.
 
 ### Contact me
 
