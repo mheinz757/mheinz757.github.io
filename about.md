@@ -8,4 +8,4 @@ I am a first-year graduate student at UC Berkeley pursuing a Ph.D. in Applied Ma
 
 ### Contact me
 
-[heinz.38@osu.edu](mailto:heinz.38@osu.edu)
+[michael_heinz@berkeley.edu](mailto:michael_heinz@berkeley.edu)
